@@ -8,5 +8,10 @@
 
 3. Look at console for interaction instructions
 
+## Note:
+Team Size: 2
+1. [Mohammed Sanaullah](https://github.com/sanaullahmohammed) 
+2. Tanmayi D
+
 
 
