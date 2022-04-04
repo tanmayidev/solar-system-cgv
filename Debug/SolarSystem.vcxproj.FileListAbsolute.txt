@@ -1,0 +1,2 @@
+E:\OpenGLproject\Solar-system-master\Debug\SolarSystem.exe
+F:\Solar-system\Debug\SolarSystem.exe
